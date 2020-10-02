@@ -4,4 +4,4 @@
 
 Sou formado como técnico em Mecatrônica e estou cursando Analise e Desenvolvimento de Sistemas.
 
-Programo para web e mobile com Javascript usando ReactJS, React Native e NodeJS.
+Hoje eu uso Javascript e Typescript nas técnologias do ecosistema React e Node.
