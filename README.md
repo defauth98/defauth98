@@ -7,5 +7,5 @@ Sou formado como técnico em Mecatrônica e estou cursando Analise e Desenvolvim
 
 Hoje eu uso Javascript e Typescript nas técnologias do ecosistema React e Node.
 
-[![Daniel Ribeiro Github Stats](https://github-readme-stats.vercel.app/api?username=defauth98)](https://github.com/anuraghazra/github-readme-stats)
+[![Daniel Ribeiro Github Stats](https://github-readme-stats.vercel.app/api?username=defauth98&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
