@@ -7,5 +7,7 @@ Sou formado como técnico em Mecatrônica e estou cursando Analise e Desenvolvim
 
 Hoje eu uso Javascript e Typescript nas técnologias do ecosistema React e Node.
 
+Meu site: https://defauth98.github.io./
+
 [![Daniel Ribeiro Github Stats](https://github-readme-stats.vercel.app/api?username=defauth98&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
