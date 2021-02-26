@@ -3,9 +3,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/daniel-ribeiro-397604164/)](https://www.linkedin.com/in/daniel-ribeiro-397604164/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:neto.daniribeiro@gmail.com)](mailto:neto.daniribeiro@gmail.com)
 
-Sou formado como técnico em Mecatrônica e estou cursando Analise e Desenvolvimento de Sistemas.
-
-Hoje eu uso Javascript e Typescript nas técnologias do ecosistema React e Node.
+Sou apaixonado por tecnologia e marcas que buscam uma maior interação digital. Estudo desenvolvimento de sotfware na Trybe, uma escola que usa de metodologias para fazer com que os alunos realmente aprendam e se desenvolvam com uma experiência real de um dia de trabalho como desenvolvedor.
 
 Meu site: https://defauth98.github.io./
 
