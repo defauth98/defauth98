@@ -4,15 +4,13 @@ Sou apaixonado por tecnologia e marcas que buscam uma maior interação digital.
 
 ### 👤 Sobre:
 
-- 👨‍💻 Meu portifólio: [defauth.github.io](https://grabify.link/P96XLY)
+- 👨‍💻 Meu portifólio: [defauth.github.io](https://defauth98.github.io./)
 
 - 💬 Pode me fazer perguntas sobre: **react, react native e nodejs**
 
 - 📫 Onde me encontrar: **neto.daniribeiro@gmail.com**
 
-- ⛑️ Linkedin: [LinkedIn](https://grabify.link/Q8SFF3)
-
-- 🤵🏿 Currículo: [Curriculo](https://grabify.link/GQX19C)
+- ⛑️ Linkedin: [LinkedIn](https://www.linkedin.com/in/daniel-ribeiro-vassao/)
 
 ### 🛠️ Linguagens e ferramentas que uso:
 
