@@ -12,6 +12,8 @@ Sou apaixonado por tecnologia e marcas que buscam uma maior interação digital.
 
 - ⛑️ Linkedin: [LinkedIn](https://www.linkedin.com/in/daniel-ribeiro-vassao/)
 
+- [Currículo](https://gitconnected.com/defauth98/resume)
+
 ### 🛠️ Linguagens e ferramentas que uso:
 
 <table>
