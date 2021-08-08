@@ -10,9 +10,9 @@ Sou apaixonado por tecnologia e marcas que buscam uma maior interação digital.
 
 - 📫 Onde me encontrar: **neto.daniribeiro@gmail.com**
 
-- ⛑️ Linkedin: [LinkedIn](https://www.linkedin.com/in/daniel-ribeiro-vassao/)
+- ⛑️ [LinkedIn](https://www.linkedin.com/in/daniel-ribeiro-vassao/)
 
-- [Currículo](https://gitconnected.com/defauth98/resume)
+- :hugs: [Currículo](https://gitconnected.com/defauth98/resume)
 
 ### 🛠️ Linguagens e ferramentas que uso:
 
