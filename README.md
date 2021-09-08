@@ -4,7 +4,7 @@ Sou apaixonado por tecnologia e marcas que buscam uma maior interação digital.
 
 ### 👤 Sobre:
 
-- :technologist: Estou atualmente estudando Frontend com React e Backend com NodeJS.
+- :man_technologist: Estou atualmente estudando Frontend com React e Backend com NodeJS.
 
 - :bookmark_tabs: Meu portifólio: [defauth.github.io](https://defauth98.github.io./)
 
