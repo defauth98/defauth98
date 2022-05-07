@@ -1,10 +1,10 @@
 <h1 align="center">Olá 👋, Seja bem vindo</h1>
 
-Sou apaixonado por tecnologia e marcas que buscam uma maior interação digital. Estudo desenvolvimento de sotfware na Trybe, uma escola que usa de metodologias para fazer com que os alunos realmente aprendam e se desenvolvam com uma experiência real de um dia de trabalho como desenvolvedor.
+Sou apaixonado por tecnologia e marcas que buscam uma maior interação digital. Estudei desenvolvimento de sotfware na Trybe, uma escola que usa de metodologias para fazer com que os alunos realmente aprendam e se desenvolvam com uma experiência real de um dia de trabalho como desenvolvedor.
 
 ### 👤 Sobre:
 
-- :man_technologist: Estou atualmente estudando Frontend com React e Backend com NodeJS.
+- :man_technologist: Estou atualmente estudando backend com NodeJS e Typescript.
 
 - :bookmark_tabs: Meu portifólio: [defauth.github.io](https://defauth98.github.io./)
 
