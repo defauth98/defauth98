@@ -1,6 +1,6 @@
 <h1 align="center">Olá 👋, Seja bem vindo</h1>
 
-Sou apaixonado por tecnologia e marcas que buscam uma maior interação digital. Estudei desenvolvimento de sotfware na Trybe, uma escola que usa de metodologias para fazer com que os alunos realmente aprendam e se desenvolvam com uma experiência real de um dia de trabalho como desenvolvedor.
+Sou apaixonado por tecnologia e marcas que buscam uma maior interação digital. Estudei desenvolvimento de software na Trybe, uma escola que usa de metodologias para fazer com que os alunos realmente aprendam e se desenvolvam com uma experiência real de um dia de trabalho como desenvolvedor.
 
 ### 👤 Sobre:
 
