@@ -3,7 +3,9 @@
 **Backend Developer** | Node.js | TypeScript | NestJS | Express | MySQL 
 
 [Linkedin](https://www.linkedin.com/in/daniel-ribeiro-vassao/)
+
 [Meu site](https://defauth98.github.io./)
+
 [Email: neto.daniribeiro@gmail.com](mailto:neto.daniribeiro@gmail.com)
 
 **Sobre mim**
